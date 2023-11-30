@@ -9,7 +9,7 @@ from openzeppelin.token.erc20.library import ERC20
 
 @constructor
 func constructor{syscall_ptr: felt*, pedersen_ptr: HashBuiltin*, range_check_ptr}() {
-    ERC20.initializer('MyToken', 'MTK', 18);
+    ERC20.initializer('ExampleToken', 'ET', 18);
     return ();
 }
 
