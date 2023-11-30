@@ -5,4 +5,3 @@ This repository contains a collection of Cairo token and NFT contract templates.
 # License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-# Contact
